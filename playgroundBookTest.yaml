@@ -1,0 +1,14 @@
+name: Playground Book Test
+identifier: com.kickinbahkproductions.playgroundBookTest
+imports:
+  - UIKit
+  - PlaygroundSupport
+resources: assets
+cover: Monks-save-lobsters.jpg
+chapters:
+  - name: Chapter 1 - Login Page
+    edge_to_edge_live_view: false
+    live_view_mode: "VisibleByDefault"
+  - name: Chapter 2 - Dashboard
+    edge_to_edge_live_view: true
+    live_view_mode: "VisibleByDefault"
